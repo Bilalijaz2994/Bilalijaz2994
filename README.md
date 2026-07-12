@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=200&section=header&text=Bilal%20Ijaz&fontSize=60&animation=twinkling&fontAlignY=35&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:7DD3FC&height=200&section=header&text=Bilal%20Ijaz&fontSize=60&animation=twinkling&fontAlignY=35&fontColor=ffffff" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=BS+Data+Science+Student+%40+UET+Lahore;Learning+Python+%26+Flask;Exploring+C%23+%26+.NET;Building+Projects+with+AI+as+a+Learning+Tool" alt="Typing SVG" />
 
@@ -26,7 +26,12 @@ const bilalIjaz = {
     database: ["SQL Server", "JSON"],
   },
   launchedProjects: 2,
-  certifications: [],
+  certifications: [
+    "C# Programming Course For Beginners",
+    "HTML Course For Beginners",
+    "JavaScript Programming Course For Beginners",
+    "SQL Server Foundations Course",
+  ],
   status: "Actively learning & building",
   openTo: ["Internships", "Collaborative projects", "Learning opportunities"],
 };
@@ -58,8 +63,9 @@ A Flask-powered web app that connects blood donors with recipients — donor reg
 
 A C# WinForms desktop application with a layered architecture (Models + DAL) for managing donors, hospitals, blood inventory, and donation records against a SQL Server database.
 
-
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BilalIjaz2994&repo=Donor-Nexus&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="DonorNexus pin"/>
+</div>
 
 | Layer         | Technology              |
 |---------------|--------------------------|
@@ -95,11 +101,24 @@ A C# WinForms desktop application with a layered architecture (Models + DAL) for
 
 <br/>
 
+## 📜 Certifications
+
+| Course | Issuer | Completed | Certificate ID |
+|---|---|---|---|
+| C# Programming Course For Beginners | ScholarHat | 1 Jun 2026 | `UXLJ010626` |
+| SQL Server Foundations Course | ScholarHat | 1 Jun 2026 | `33MD010626` |
+| JavaScript Programming Course For Beginners | ScholarHat | 30 Dec 2025 | `29IJ301225` |
+| HTML Course For Beginners | ScholarHat | 28 Dec 2025 | `DETH281225` |
+
+✅ All certificates can be verified at [scholarhat.com/certificate/verify](https://www.scholarhat.com/certificate/verify)
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
-username=BilalIjaz2994&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalIjaz2994&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BilalIjaz2994&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&hide_border=false" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalIjaz2994&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false" alt="Top Languages" width="48%"/>
 </div>
 
 <div align="center">
@@ -126,4 +145,4 @@ username=BilalIjaz2994&show_icons=true&theme=nord&border_color=7dd3fc&title_colo
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,50:1E3A5F,100:0F172A&height=120&section=footer" width="100%"/>
