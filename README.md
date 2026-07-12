@@ -58,9 +58,8 @@ A Flask-powered web app that connects blood donors with recipients — donor reg
 
 A C# WinForms desktop application with a layered architecture (Models + DAL) for managing donors, hospitals, blood inventory, and donation records against a SQL Server database.
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BilalIjaz2994&repo=Donor-Nexus&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="DonorNexus pin"/>
-</div>
+
+
 
 | Layer         | Technology              |
 |---------------|--------------------------|
@@ -99,7 +98,7 @@ A C# WinForms desktop application with a layered architecture (Models + DAL) for
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BilalIjaz2994&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
+username=BilalIjaz2994&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalIjaz2994&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" height="165"/>
 </div>
 
