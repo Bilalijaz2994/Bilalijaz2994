@@ -110,7 +110,7 @@ A C# WinForms desktop application with a layered architecture (Models + DAL) for
 
 ## 📊 GitHub Stats
 
-<div align="center">username=BilalIjaz2994&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&hide_border=false" alt="GitHub Stats" width="48%"/>
+<div 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BilalIjaz2994&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Contribution Graph" width="100%"/>
 </div>
