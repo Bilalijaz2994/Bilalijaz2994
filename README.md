@@ -110,19 +110,7 @@ A C# WinForms desktop application with a layered architecture (Models + DAL) for
 
 ## 📊 GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BilalIjaz2994&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&hide_border=false" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalIjaz2994&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false" alt="Top Languages" width="48%"/>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=BilalIjaz2994&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=BilalIjaz2994&no-frame=true&no-bg=true&theme=nord&column=4" alt="GitHub Trophies"/>
-</div>
-
+<div align="center">username=BilalIjaz2994&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&hide_border=false" alt="GitHub Stats" width="48%"/>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BilalIjaz2994&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Contribution Graph" width="100%"/>
 </div>
