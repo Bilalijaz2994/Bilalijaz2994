@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:7DD3FC&height=200&section=header&text=Bilal%20Ijaz&fontSize=60&animation=twinkling&fontAlignY=35&fontColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=BS+Data+Science+Student+%40+UET+Lahore;Learning+Python+%26+Flask;Exploring+C%23+%26+.NET;Building+Projects+with+AI+as+a+Learning+Tool" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=BS+Data+Science+Student+%40+UET+Lahore;" alt="Typing SVG" />
 
 <br/>
 
