@@ -45,9 +45,6 @@ const bilalIjaz = {
 
 A Flask-powered web app that connects blood donors with recipients — donor registration, blood-group search, and a secure admin panel.
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BilalIjaz2994&repo=Donor-Nexus-html-version&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Donor Nexus pin"/>
-</div>
 
 | Layer     | Technology                    |
 |-----------|--------------------------------|
@@ -63,9 +60,6 @@ A Flask-powered web app that connects blood donors with recipients — donor reg
 
 A C# WinForms desktop application with a layered architecture (Models + DAL) for managing donors, hospitals, blood inventory, and donation records against a SQL Server database.
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BilalIjaz2994&repo=Donor-Nexus&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="DonorNexus pin"/>
-</div>
 
 | Layer         | Technology              |
 |---------------|--------------------------|
